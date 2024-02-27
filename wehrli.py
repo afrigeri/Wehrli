@@ -1,4 +1,6 @@
-wl_nm = np.array(
+import numpy as np
+
+wl_nm = np.array([
     199.5,
     200.5,
     201.5,
@@ -919,10 +921,10 @@ wl_nm = np.array(
     6615.0,
     7785.0,
     10075.0,
-)
+])
 
 # ,W/sm/nm,
-W_sm_nm = np.array(
+W_sm_nm = np.array([
     0.005,
     0.007,
     0.007,
@@ -1842,11 +1844,11 @@ W_sm_nm = np.array(
     0.002,
     0.001,
     0.001,
-    0.000,
-)
+    0.000
+])
 
 #
-W_sm = np.array(
+W_sm = np.array([
     5.498e-3,
     1.253e-2,
     1.971e-2,
@@ -2766,5 +2768,5 @@ W_sm = np.array(
     1.364e3,
     1.365e3,
     1.366e3,
-    1.367e3,
-)
+    1.367e3
+])

@@ -13,4 +13,6 @@ dataset.plot.scatter(x="Wavelength",y="W sm")
 plt.show()
 ```
 
+### Reference
 
+ * Wehrli, C. Extraterrestrial Solar Spectrum, Publication no. 615, Physikalisch-Meteorologisches Observatorium + World Radiation Center, Davos Dorf, Switzerland, July 1985.

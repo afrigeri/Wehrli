@@ -2,6 +2,8 @@
 # Wehrli python module
 1985 Wehrli Standard Extraterrestrial Solar Irradiance Spectrum, useful for processing Earth and Planetary mapping spectrometer data.
 
+The 1985 Wehrli Standard Extraterrestrial Solar Irradiance Spectrum covers the solar spectrum from 199.5 nm to 10075.0 nm in increments increasing gradually from 1 nm in the shorter wavelengths to 2290 nm at the upper end of the spectrum.
+
 ```
 import wehrli
 import pandas as pd

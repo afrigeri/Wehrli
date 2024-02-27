@@ -1,6 +1,6 @@
 
 # Wehrli python module
-1985 Wehrli Standard Extraterrestrial Solar Irradiance Spectrum
+1985 Wehrli Standard Extraterrestrial Solar Irradiance Spectrum, useful for processing Earth and Planetary mapping spectrometer data.
 
 ```
 import wehrli
